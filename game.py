@@ -66,7 +66,7 @@ data = [
     },
     {
         'name': 'Lionel Messi',
-        'follower_count': 149,
+        'follower_count': 450,
         'description': 'Footballer',
         'country': 'Argentina'
     },
